@@ -18,6 +18,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 
 gem 'bower-rails'
+gem 'angular-rails-templates'
 
 gem 'foreman'
 
